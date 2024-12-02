@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Hi, I’m Kevin! I’ve worked as a Data Engineer specializing in ETL/ELT processes and as a Data Analyst creating insightful dashboards. I’m passionate about data and currently working towards transitioning into a Data Scientist role in the future.
 <!--
 **kagavieta/kagavieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
